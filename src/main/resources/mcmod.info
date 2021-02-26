@@ -1,0 +1,16 @@
+[
+	{
+  	"modid": "shop",
+  	"name": "Jacwee's Shop Mod",
+  	"description": "Craftable shop for buying items.",
+  	"version": "1.0.0",
+  	"mcversion": "${mcversion}",
+  	"url": "",
+  	"updateUrl": "",
+  	"authorList": ["Jacwee"],
+  	"credits": "Suppergerrie2's tutorial and the internet!",
+  	"logoFile": "",
+  	"screenshots": [],
+  	"dependencies": []
+	}
+]		
